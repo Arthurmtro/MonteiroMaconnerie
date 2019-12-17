@@ -1,9 +1,9 @@
 .fb-page {
     align-items: center;
+    margin-bottom: 45;
 }
 
 .gallery {
-    margin-top: 20px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
